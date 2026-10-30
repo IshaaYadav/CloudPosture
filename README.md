@@ -421,19 +421,6 @@ $$\text{Posture Score} = \frac{\text{PASS Count}}{\text{PASS Count} + \text{FAIL
 
 ---
 
-## 12. Git Commands for Uploading to GitHub
-
-```bash
-git init
-git add .
-git commit -m "feat: complete end-to-end AWS Cloud Posture Scanner application"
-git branch -M main
-git remote add origin https://github.com/<your-username>/cloud-posture-scanner.git
-git push -u origin main
-```
-
----
-
 ## 13. License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
